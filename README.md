@@ -1,10 +1,10 @@
 # Superstore Sales Dashboard – Power BI
 
-## 📊 Project Overview
+## Project Overview
 
 This project is an interactive **Superstore Sales Dashboard** created using **Microsoft Power BI Desktop**. It analyzes sales, profit, orders, quantity, categories, and monthly sales performance using the SampleSuperstore dataset.
 
-## 🎯 Objectives
+## Objectives
 
 - Prepare and clean the Superstore dataset
 - Create a structured data model
@@ -13,7 +13,7 @@ This project is an interactive **Superstore Sales Dashboard** created using **Mi
 - Analyze sales by category, sub-category, and month
 - Use slicers and cross-filtering for interactive analysis
 
-## 📈 Dashboard Features
+## Dashboard Features
 
 - Total Sales
 - Total Profit
@@ -28,16 +28,11 @@ This project is an interactive **Superstore Sales Dashboard** created using **Mi
 - Category, Region, and Segment Slicers
 - Drill-down and Tooltips
 
-## 🛠️ Tools Used
+## Tools Used
 
 - Microsoft Power BI Desktop
 - Power Query
 - DAX
 - SampleSuperstore Dataset
 
-## 📁 Project File
-
-`Superstore_Week1_Week2.pbix`
-
-The PBIX file contains the complete data model, DAX measures, visualizations, and interactive dashboard.
 
